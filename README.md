@@ -4,5 +4,5 @@
 
 ```bash 
 pip install pytest
-pytest -v test_starter.py
+pytest -v tests.py
 ```
